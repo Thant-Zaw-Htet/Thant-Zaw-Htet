@@ -1,4 +1,4 @@
-<h1 align="center">Thant Zaw Htet</h1>
+<h3 align="center">Thant Zaw Htet</h3>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">I'm passionate about coding with....</h5>
+<h5 align="left">💻I'm passionate about coding with....</h5>
 
 ###
 
