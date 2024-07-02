@@ -1,4 +1,4 @@
-<h3 align="center">Thant Zaw Htet</h3>
+<h2 align="center">Thant Zaw Htet</h2>
 
 ###
 
