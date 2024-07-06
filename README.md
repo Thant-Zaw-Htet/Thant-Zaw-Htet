@@ -4,6 +4,7 @@
 
 <p align="left">👨‍💻Enthusiastic about software development, especially with a focus on C#.</p>
 
+<h2>------------------------------------</h2>
 ###
 
 <h4 align="left">💻I'm passionate about coding with....</h4>
